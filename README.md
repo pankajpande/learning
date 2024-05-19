@@ -1,2 +1,2 @@
 # learning
-Contains sample projects which were developed
+Contains sample projects
